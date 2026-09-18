@@ -1,0 +1,6 @@
+{
+  "name": "VaxChain AI - Vaccine & Medical Supply Chain Management System",
+  "description": "AI-powered healthcare logistics platform for demand surge detection, shortage prediction, emergency procurement, cold chain IoT monitoring, and smart transport.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
